@@ -1,0 +1,250 @@
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe.config
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.pdb
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.InicioSesion.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Properties.Resources.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.exe
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.pdb
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VentanaPrincipal.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Titulo.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Panel_Usuario.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionAdministrativa.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.DatosPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ConsultarPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.RegistrarVacaciones.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VacacionesPersonal.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ConsultarVacacionPersonal.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ListarVacaciones.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosPersonalesBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.ConsultarDatosBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.OtrosDatosBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosVivienda_Beneficiaria.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csprojAssemblyReference.cache
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.ConsultarDatosBeneficiarias.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosPersonalesBeneficiarias.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosVivienda_Beneficiaria.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.OtrosDatosBeneficiarias.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionBeneficiarias.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ConsultarPersonalAdministrativo.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ConsultarVacacionPersonal.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.DatosPersonalAdministrativo.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionAdministrativa.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.InicioSesion.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarBeneficiarias.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Properties.Resources.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarPersonalAdministrativo.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Panel_Usuario.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ListarVacaciones.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.RegistrarVacaciones.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Titulo.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VacacionesPersonal.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VentanaPrincipal.resources
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.GenerateResource.cache
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.CoreCompileInputs.cache
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.exe
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.pdb
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe.config
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe
+F:\Ap. Ambientes Propietarios\Proyecto\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.pdb
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe.config
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.pdb
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.ConsultarDatosBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosPersonalesBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosVivienda_Beneficiaria.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.OtrosDatosBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ConsultarPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ConsultarVacacionPersonal.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.DatosPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionAdministrativa.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.InicioSesion.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Properties.Resources.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Panel_Usuario.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ListarVacaciones.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.RegistrarVacaciones.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Titulo.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VacacionesPersonal.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VentanaPrincipal.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.exe
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.pdb
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.CambiarContrasena.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Imagen.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe.config
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.pdb
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.ConsultarDatosBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosPersonalesBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosVivienda_Beneficiaria.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.OtrosDatosBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Imagen.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.CambiarContrasena.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ConsultarPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ConsultarVacacionPersonal.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.DatosPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionAdministrativa.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.InicioSesion.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarBeneficiarias.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Properties.Resources.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Panel_Usuario.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ListarVacaciones.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.RegistrarVacaciones.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Titulo.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VacacionesPersonal.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VentanaPrincipal.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.exe
+C:\Users\Pc\Desktop\FundacionTalitaKumi - Prototipo2\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.pdb
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionFichasSeguimiento.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.DatosFichas.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionPersonal.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionFamiliar.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionEducativa.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionTalleres.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionLaboral.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.CausasIngreso.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.ObersvacionesGenerales.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionInformes.resources
+C:\Users\Pc\Desktop\FundacionTalitaKumi\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe.config
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.pdb
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.ConsultarDatosBeneficiarias.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosPersonalesBeneficiarias.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosVivienda_Beneficiaria.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.OtrosDatosBeneficiarias.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.CausasIngreso.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.DatosFichas.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionEducativa.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionFamiliar.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionLaboral.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionPersonal.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionTalleres.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.ObersvacionesGenerales.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionBeneficiarias.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionFichasSeguimiento.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionInformes.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Imagen.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.CambiarContrasena.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ConsultarPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ConsultarVacacionPersonal.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.DatosPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.GestionAdministrativa.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.InicioSesion.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarBeneficiarias.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Properties.Resources.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Panel_Usuario.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ListarVacaciones.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.RegistrarVacaciones.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Titulo.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VacacionesPersonal.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VentanaPrincipal.resources
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.exe
+C:\Users\Pc\Desktop\Prototipo v1.0\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.pdb
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe.config
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.pdb
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.ConsultarDatosBeneficiarias.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosPersonalesBeneficiarias.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosVivienda_Beneficiaria.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.OtrosDatosBeneficiarias.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.CausasIngreso.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.DatosFichas.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionEducativa.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionFamiliar.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionLaboral.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionPersonal.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionTalleres.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.ObersvacionesGenerales.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.CambiarContrasena.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ConsultarPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ConsultarVacacionPersonal.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.DatosPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.InicioSesion.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarBeneficiarias.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Properties.Resources.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarPersonalAdministrativo.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Panel_Usuario.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ListarVacaciones.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.RegistrarVacaciones.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Titulo.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VacacionesPersonal.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VentanaPrincipal.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.exe
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.pdb
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaPsicología.crearFichaPS.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaPsicología.DatosFichas_PS.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.CrearUsuario.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.InformePAINA.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.Area.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.Objetivos.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.NuevaArea.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.Responsables.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.Fechas.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaPsicología.ConsultarFicha.resources
+C:\Users\Pc\Desktop\PROTOTIPO\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.ConsultarFichaPAINA.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe.config
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.exe
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\bin\Debug\FundacionTalitaKumi.pdb
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csprojAssemblyReference.cache
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.ConsultarDatosBeneficiarias.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosPersonalesBeneficiarias.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.DatosVivienda_Beneficiaria.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Beneficiaria.OtrosDatosBeneficiarias.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.CrearUsuario.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.CausasIngreso.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.DatosFichas.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionEducativa.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionFamiliar.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionLaboral.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionPersonal.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.InformacionTalleres.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaInfoGeneral_GS.ObersvacionesGenerales.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaPsicología.ConsultarFicha.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaPsicología.crearFichaPS.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.FichaPsicología.DatosFichas_PS.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.Area.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.ConsultarFichaPAINA.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.Fechas.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.InformePAINA.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.NuevaArea.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.Objetivos.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.PAINA.Responsables.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.CambiarContrasena.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ConsultarPersonalAdministrativo.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ConsultarVacacionPersonal.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.DatosPersonalAdministrativo.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.InicioSesion.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarBeneficiarias.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Properties.Resources.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.ListarPersonalAdministrativo.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Panel_Usuario.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Personal.ListarVacaciones.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.RegistrarVacaciones.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.Titulo.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VacacionesPersonal.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.Vista.VentanaPrincipal.resources
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.GenerateResource.cache
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.exe
+C:\Users\Jefferson\Documents\MEGA\EPN\Quinto\A. A. Propetarios\Proyecto\Final\Prototipo v1.1\FundacionTalitaKumi\FundacionTalitaKumi\obj\Debug\FundacionTalitaKumi.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundacionTalitaKumi", "FundacionTalitaKumi\FundacionTalitaKumi.csproj", "{0C334745-4186-48CF-AD3A-2F5CAFC9EDEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C334745-4186-48CF-AD3A-2F5CAFC9EDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C334745-4186-48CF-AD3A-2F5CAFC9EDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C334745-4186-48CF-AD3A-2F5CAFC9EDEF}.Debug|x64.ActiveCfg = Debug|x64
+		{0C334745-4186-48CF-AD3A-2F5CAFC9EDEF}.Debug|x64.Build.0 = Debug|x64
+		{0C334745-4186-48CF-AD3A-2F5CAFC9EDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C334745-4186-48CF-AD3A-2F5CAFC9EDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C334745-4186-48CF-AD3A-2F5CAFC9EDEF}.Release|x64.ActiveCfg = Release|x64
+		{0C334745-4186-48CF-AD3A-2F5CAFC9EDEF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4CF736B-02C2-401F-A4C0-072270E4C39F}
+	EndGlobalSection
+EndGlobal
